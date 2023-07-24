@@ -1,0 +1,181 @@
+﻿No.,Sample_name,Metagenome_type,Metagenome_Source,Subject_ID,Subject_pop,Subject_group,Subject_age,Body_site_general,Body_site_ID,Body_site_niche,Longitudinal_ABX_or_HSCT,HSCT_post_month
+1,Met0913,DNA,Byrd et al. 2017,HC02,hv,hv_skin,child,skin,Ac,Moist,B,NA
+2,Met0920,DNA,Byrd et al. 2017,HC02,hv,hv_skin,child,skin,Ra,Sebaceous,B,NA
+3,Met0921,DNA,Byrd et al. 2017,HC02,hv,hv_skin,child,skin,Vf,Dry,B,NA
+4,Met0936,DNA,Byrd et al. 2017,HC03,hv,hv_skin,child,skin,Ac,Moist,B,NA
+5,Met0946,DNA,Byrd et al. 2017,HC03,hv,hv_skin,child,skin,Ra,Sebaceous,B,NA
+6,Met0947,DNA,Byrd et al. 2017,HC03,hv,hv_skin,child,skin,Vf,Dry,B,NA
+7,Met0992,DNA,Byrd et al. 2017,HC01,hv,hv_skin,child,skin,Ac,Moist,B,NA
+8,Met1003,DNA,Byrd et al. 2017,HC01,hv,hv_skin,child,skin,Ra,Sebaceous,B,NA
+9,Met1004,DNA,Byrd et al. 2017,HC01,hv,hv_skin,child,skin,Vf,Dry,B,NA
+10,Met1020,DNA,Byrd et al. 2017,HC04,hv,hv_skin,child,skin,Ac,Moist,B,NA
+11,Met1030,DNA,Byrd et al. 2017,HC04,hv,hv_skin,child,skin,Ra,Sebaceous,B,NA
+12,Met1031,DNA,Byrd et al. 2017,HC04,hv,hv_skin,child,skin,Vf,Dry,B,NA
+13,MET1315,DNA,Jo et al. 2021,HV06,hv,hvskin_abx,adult,skin,Ac,Moist,4W,NA
+14,MET1323,DNA,Jo et al. 2021,HV06,hv,hvskin_abx,adult,skin,Ra,Sebaceous,4W,NA
+15,MET1325,DNA,Jo et al. 2021,HV06,hv,hvskin_abx,adult,skin,Vf,Dry,4W,NA
+16,MET1950,DNA,Jo et al. 2021,HV04,hv,hvskin_abx,adult,skin,Ac,Moist,B,NA
+17,MET1951,DNA,Jo et al. 2021,HV04,hv,hvskin_abx,adult,skin,Ra,Sebaceous,B,NA
+18,MET1952,DNA,Jo et al. 2021,HV04,hv,hvskin_abx,adult,skin,Vf,Dry,B,NA
+19,MET1954,DNA,Jo et al. 2021,HV04,hv,hvskin_abx,adult,skin,Ac,Moist,2W,NA
+20,MET1955,DNA,Jo et al. 2021,HV04,hv,hvskin_abx,adult,skin,Ra,Sebaceous,2W,NA
+21,MET1956,DNA,Jo et al. 2021,HV04,hv,hvskin_abx,adult,skin,Vf,Dry,2W,NA
+22,MET1958,DNA,Jo et al. 2021,HV04,hv,hvskin_abx,adult,skin,Ac,Moist,4W,NA
+23,MET1959,DNA,Jo et al. 2021,HV04,hv,hvskin_abx,adult,skin,Ra,Sebaceous,4W,NA
+24,MET1960,DNA,Jo et al. 2021,HV04,hv,hvskin_abx,adult,skin,Vf,Dry,4W,NA
+25,MET1966,DNA,Jo et al. 2021,HV05,hv,hvskin_abx,adult,skin,Ac,Moist,B,NA
+26,MET1967,DNA,Jo et al. 2021,HV05,hv,hvskin_abx,adult,skin,Ra,Sebaceous,B,NA
+27,MET1968,DNA,Jo et al. 2021,HV05,hv,hvskin_abx,adult,skin,Vf,Dry,B,NA
+28,MET1970,DNA,Jo et al. 2021,HV05,hv,hvskin_abx,adult,skin,Ac,Moist,2W,NA
+29,MET1971,DNA,Jo et al. 2021,HV05,hv,hvskin_abx,adult,skin,Ra,Sebaceous,2W,NA
+30,MET1972,DNA,Jo et al. 2021,HV05,hv,hvskin_abx,adult,skin,Vf,Dry,2W,NA
+31,MET1974,DNA,Jo et al. 2021,HV05,hv,hvskin_abx,adult,skin,Ac,Moist,4W,NA
+32,MET1975,DNA,Jo et al. 2021,HV05,hv,hvskin_abx,adult,skin,Ra,Sebaceous,4W,NA
+33,MET1976,DNA,Jo et al. 2021,HV05,hv,hvskin_abx,adult,skin,Vf,Dry,4W,NA
+34,MET1982,DNA,Jo et al. 2021,HV06,hv,hv_skin,adult,skin,Ac,Moist,B,NA
+35,MET1983,DNA,Jo et al. 2021,HV06,hv,hv_skin,adult,skin,Ra,Sebaceous,B,NA
+36,MET1984,DNA,Jo et al. 2021,HV06,hv,hv_skin,adult,skin,Vf,Dry,B,NA
+37,MET1986,DNA,Jo et al. 2021,HV06,hv,hvskin_abx,adult,skin,Ac,Moist,2W,NA
+38,MET1987,DNA,Jo et al. 2021,HV06,hv,hvskin_abx,adult,skin,Ra,Sebaceous,2W,NA
+39,MET1988,DNA,Jo et al. 2021,HV06,hv,hvskin_abx,adult,skin,Vf,Dry,2W,NA
+40,MET2375,DNA,Jo et al. 2021,HV07,hv,hv_stool,adult,stool,St,Stool,B,NA
+41,MET2379,DNA,Jo et al. 2021,HV10,hv,hv_stool,adult,stool,St,Stool,B,NA
+42,MET2391,DNA,Jo et al. 2021,HV08,hv,hv_stool,adult,stool,St,Stool,B,NA
+43,MET2395,DNA,Jo et al. 2021,HV09,hv,hv_stool,adult,stool,St,Stool,B,NA
+44,MET2399,DNA,Jo et al. 2021,HV11,hv,hv_stool,adult,stool,St,Stool,B,NA
+45,Met2822,DNA,Present study,RAG_pt01,rag,rag_skin,child,skin,Ac,Moist,B,NA
+46,Met2823,DNA,Present study,RAG_pt05,rag,rag_skin,adult,skin,Ac,Moist,B,NA
+47,Met2824,DNA,Present study,RAG_pt05,rag,rag_skin,adult,skin,Vf,Dry,B,NA
+48,Met2825,DNA,Present study,RAG_pt06,rag,rag_skin,adult,skin,Ac,Moist,B,NA
+49,Met2834,DNA,Present study,RAG_pt01,rag,rag_skin,child,skin,Hp,Dry,B,NA
+50,Met2835,DNA,Present study,RAG_pt05,rag,rag_skin,adult,skin,Hp,Dry,B,NA
+51,Met2836,DNA,Present study,Air_control,control,control,NA,control,Ct,Ct,B,NA
+52,Met2837,DNA,Present study,RAG_pt06,rag,rag_skin,adult,skin,Hp,Dry,B,NA
+53,Met2846,DNA,Present study,RAG_pt01,rag,rag_skin,child,skin,Ic,Moist,B,NA
+54,Met2847,DNA,Present study,RAG_pt05,rag,rag_skin,adult,skin,Ic,Moist,B,NA
+55,Met2849,DNA,Present study,RAG_pt06,rag,rag_skin,adult,skin,Ic,Moist,B,NA
+56,Met2858,DNA,Present study,RAG_pt01,rag,rag_skin,child,skin,Mb,Sebaceous,B,NA
+57,Met2859,DNA,Present study,RAG_pt05,rag,rag_skin,adult,skin,Mb,Sebaceous,B,NA
+58,Met2860,DNA,Present study,Air_control,control,control,NA,control,Ct,Ct,B,NA
+59,Met2861,DNA,Present study,RAG_pt06,rag,rag_skin,adult,skin,Mb,Sebaceous,B,NA
+60,Met2870,DNA,Present study,RAG_pt01,rag,rag_skin,child,skin,Pc,Moist,B,NA
+61,Met2871,DNA,Present study,RAG_pt05,rag,rag_skin,adult,skin,Pc,Moist,B,NA
+62,Met2872,DNA,Present study,Air_control,control,control,NA,control,Ct,Ct,B,NA
+63,Met2873,DNA,Present study,RAG_pt06,rag,rag_skin,adult,skin,Pc,Moist,B,NA
+64,Met2882,DNA,Present study,RAG_pt01,rag,rag_skin,child,skin,Ph,Moist,B,NA
+65,Met2883,DNA,Present study,RAG_pt05,rag,rag_skin,adult,skin,Ph,Moist,B,NA
+66,Met2885,DNA,Present study,RAG_pt06,rag,rag_skin,adult,skin,Ph,Moist,B,NA
+67,Met2894,DNA,Present study,RAG_pt01,rag,rag_skin,child,skin,Ra,Sebaceous,B,NA
+68,Met2895,DNA,Present study,RAG_pt05,rag,rag_skin,adult,skin,Ra,Sebaceous,B,NA
+69,Met2897,DNA,Present study,RAG_pt06,rag,rag_skin,adult,skin,Ra,Sebaceous,B,NA
+70,Met2906,DNA,Present study,RAG_pt01,rag,rag_skin,child,skin,Vf,Dry,B,NA
+71,Met2909,DNA,Present study,RAG_pt06,rag,rag_skin,adult,skin,Vf,Dry,B,NA
+72,Met3132,DNA,Kashaf et al. 2022,HV01,hv,hv_skin,adult,nares,N,Nasal,B,NA
+73,Met3138,DNA,Kashaf et al. 2022,HV02,hv,hv_skin,adult,nares,N,Nasal,B,NA
+74,Met3139,DNA,Kashaf et al. 2022,HV04,hv,hv_skin,adult,nares,N,Nasal,B,NA
+75,Met3142,DNA,Kashaf et al. 2022,HV05,hv,hv_skin,adult,nares,N,Nasal,B,NA
+76,Met3144,DNA,Kashaf et al. 2022,HV03,hv,hv_skin,adult,nares,N,Nasal,B,NA
+77,Met3506,DNA,Kashaf et al. 2022,HV01,hv,hv_skin,adult,skin,Ac,Moist,B,NA
+78,Met3507,DNA,Kashaf et al. 2022,HV01,hv,hv_skin,adult,skin,Ra,Sebaceous,B,NA
+79,Met3508,DNA,Kashaf et al. 2022,HV01,hv,hv_skin,adult,skin,Vf,Dry,B,NA
+80,Met3509,DNA,Kashaf et al. 2022,HV02,hv,hv_skin,adult,skin,Ac,Moist,B,NA
+81,Met3510,DNA,Kashaf et al. 2022,HV02,hv,hv_skin,adult,skin,Ra,Sebaceous,B,NA
+82,Met3511,DNA,Kashaf et al. 2022,HV02,hv,hv_skin,adult,skin,Vf,Dry,B,NA
+83,Met3512,DNA,Kashaf et al. 2022,HV04,hv,hv_skin,adult,skin,Ac,Moist,B,NA
+84,Met3513,DNA,Kashaf et al. 2022,HV04,hv,hv_skin,adult,skin,Ra,Sebaceous,B,NA
+85,Met3514,DNA,Kashaf et al. 2022,HV04,hv,hv_skin,adult,skin,Vf,Dry,B,NA
+86,Met3515,DNA,Kashaf et al. 2022,HV05,hv,hv_skin,adult,skin,Ac,Moist,B,NA
+87,Met3516,DNA,Kashaf et al. 2022,HV05,hv,hv_skin,adult,skin,Ra,Sebaceous,B,NA
+88,Met3517,DNA,Kashaf et al. 2022,HV05,hv,hv_skin,adult,skin,Vf,Dry,B,NA
+89,Met3518,DNA,Kashaf et al. 2022,HV03,hv,hv_skin,adult,skin,Ac,Moist,B,NA
+90,Met3519,DNA,Kashaf et al. 2022,HV03,hv,hv_skin,adult,skin,Ra,Sebaceous,B,NA
+91,Met3520,DNA,Kashaf et al. 2022,HV03,hv,hv_skin,adult,skin,Vf,Dry,B,NA
+92,Met4126,DNA,Present study,RAG_pt02,rag,rag_skin,child,skin,Ac,Moist,B,NA
+93,Met4127,DNA,Present study,RAG_pt02,rag,rag_skin,child,skin,Hp,Dry,B,NA
+94,Met4128,DNA,Present study,RAG_pt02,rag,rag_skin,child,skin,Ic,Moist,B,NA
+95,Met4129,DNA,Present study,RAG_pt02,rag,rag_skin,child,skin,Mb,Sebaceous,B,NA
+96,Met4130,DNA,Present study,RAG_pt02,rag,rag_skin,child,skin,Pc,Moist,B,NA
+97,Met4131,DNA,Present study,RAG_pt02,rag,rag_skin,child,skin,Ph,Moist,B,NA
+98,Met4132,DNA,Present study,RAG_pt02,rag,rag_skin,child,skin,Ra,Sebaceous,B,NA
+99,Met4133,DNA,Present study,RAG_pt02,rag,rag_skin,child,skin,Vf,Dry,B,NA
+100,Met4134,DNA,Present study,RAG_pt03,rag,rag_skin,child,skin,Ac,Moist,B,NA
+101,Met4135,DNA,Present study,RAG_pt03,rag,rag_skin,child,skin,Hp,Dry,B,NA
+102,Met4136,DNA,Present study,RAG_pt03,rag,rag_skin,child,skin,Ic,Moist,B,NA
+103,Met4137,DNA,Present study,RAG_pt03,rag,rag_skin,child,skin,Mb,Sebaceous,B,NA
+104,Met4138,DNA,Present study,RAG_pt03,rag,rag_skin,child,skin,Pc,Moist,B,NA
+105,Met4139,DNA,Present study,RAG_pt03,rag,rag_skin,child,skin,Ph,Moist,B,NA
+106,Met4140,DNA,Present study,RAG_pt03,rag,rag_skin,child,skin,Ra,Sebaceous,B,NA
+107,Met4141,DNA,Present study,RAG_pt03,rag,rag_skin,child,skin,Vf,Dry,B,NA
+108,Met4142,DNA,Present study,Prep_control,control,control,NA,control,Ct,Ct,B,NA
+109,Met4143,DNA,Present study,RAG_pt07,rag,rag_skin,adult,skin,Ac,Moist,B,NA
+110,Met4144,DNA,Present study,RAG_pt07,rag,rag_skin,adult,skin,Hp,Dry,B,NA
+111,Met4145,DNA,Present study,RAG_pt07,rag,rag_skin,adult,skin,Ic,Moist,B,NA
+112,Met4146,DNA,Present study,RAG_pt07,rag,rag_skin,adult,skin,Mb,Sebaceous,B,NA
+113,Met4147,DNA,Present study,RAG_pt07,rag,rag_skin,adult,skin,Pc,Moist,B,NA
+114,Met4148,DNA,Present study,RAG_pt07,rag,rag_skin,adult,skin,Ph,Moist,B,NA
+115,Met4149,DNA,Present study,RAG_pt07,rag,rag_skin,adult,skin,Ra,Sebaceous,B,NA
+116,Met4150,DNA,Present study,RAG_pt07,rag,rag_skin,adult,skin,Vf,Dry,B,NA
+117,Met4151,DNA,Present study,RAG_pt08,rag,rag_skin,adult,skin,Ac,Moist,B,NA
+118,Met4152,DNA,Present study,RAG_pt08,rag,rag_skin,adult,skin,Hp,Dry,B,NA
+119,Met4153,DNA,Present study,RAG_pt08,rag,rag_skin,adult,skin,Ic,Moist,B,NA
+120,Met4154,DNA,Present study,RAG_pt08,rag,rag_skin,adult,skin,Mb,Sebaceous,B,NA
+121,Met4155,DNA,Present study,RAG_pt08,rag,rag_skin,adult,skin,Pc,Moist,B,NA
+122,Met4156,DNA,Present study,RAG_pt08,rag,rag_skin,adult,skin,Ph,Moist,B,NA
+123,Met4157,DNA,Present study,RAG_pt08,rag,rag_skin,adult,skin,Ra,Sebaceous,B,NA
+124,Met4158,DNA,Present study,RAG_pt08,rag,rag_skin,adult,skin,Vf,Dry,B,NA
+125,Met4191,DNA,Jo et al. 2021,HV12,hv,hv_stool,adult,stool,St,Stool,B,NA
+126,Met4348,DNA,Present study,RAG_pt05,rag,rag_skin,adult,nares,N,Nasal,B,NA
+127,Met4349,DNA,Present study,RAG_pt06,rag,rag_skin,adult,nares,N,Nasal,B,NA
+128,Met4350,DNA,Present study,RAG_pt02,rag,rag_skin,child,nares,N,Nasal,B,NA
+129,Met4351,DNA,Present study,RAG_pt03,rag,rag_skin,child,nares,N,Nasal,B,NA
+130,Met4352,DNA,Present study,RAG_pt07,rag,rag_skin,adult,nares,N,Nasal,B,NA
+131,Met4353,DNA,Present study,RAG_pt08,rag,rag_skin,adult,nares,N,Nasal,B,NA
+132,Met4357,DNA,Present study,Prep_control,control,control,NA,control,Ct,Ct,B,NA
+133,Met4358,DNA,Present study,RAG_pt01,rag,rag_stool,child,stool,St,Stool,B,NA
+134,Met4359,DNA,Present study,RAG_pt05,rag,rag_stool,adult,stool,St,Stool,2M,2
+135,Met4360,DNA,Present study,RAG_pt05,rag,rag_stool,adult,stool,St,Stool,3M,3
+136,Met4361,DNA,Present study,RAG_pt05,rag,rag_stool,adult,stool,St,Stool,6M,6
+137,Met4362,DNA,Present study,RAG_pt06,rag,rag_stool,adult,stool,St,Stool,3M,3
+138,Met4363,DNA,Present study,RAG_pt06,rag,rag_stool,adult,stool,St,Stool,6M,6
+139,Met4364,DNA,Present study,RAG_pt03,rag,rag_stool,child,stool,St,Stool,B,NA
+140,Met4365,DNA,Present study,RAG_pt07,rag,rag_stool,adult,stool,St,Stool,B,NA
+141,Met4366,DNA,Present study,RAG_pt08,rag,rag_stool,adult,stool,St,Stool,B,NA
+142,Met4367,DNA,Present study,Prep_control,control,control,NA,control,Ct,Ct,B,NA
+143,Met4368,DNA,Present study,RAG_pt01,rag,rag_stool,child,stool,St,Stool,0M,0
+144,Met4369,DNA,Present study,RAG_pt01,rag,rag_stool,child,stool,St,Stool,1M,1
+145,Met4370,DNA,Present study,RAG_pt05,rag,rag_stool,adult,stool,St,Stool,B,NA
+146,Met4371,DNA,Present study,RAG_pt05,rag,rag_stool,adult,stool,St,Stool,0M,0
+147,Met4372,DNA,Present study,RAG_pt05,rag,rag_stool,adult,stool,St,Stool,1M,1
+148,Met4373,DNA,Present study,RAG_pt06,rag,rag_stool,adult,stool,St,Stool,B,NA
+149,Met4374,DNA,Present study,RAG_pt06,rag,rag_stool,adult,stool,St,Stool,2M,2
+150,Met4375,DNA,Present study,RAG_pt02,rag,rag_stool,child,stool,St,Stool,B,NA
+151,Met4376,DNA,Present study,Prep_control,control,control,NA,control,Ct,Ct,B,NA
+152,Met4520,DNA,Present study,RAG_pt04,rag,rag_skin,child,skin,Ac,Moist,B,NA
+153,Met4521,DNA,Present study,RAG_pt04,rag,rag_skin,child,skin,Vf,Dry,B,NA
+154,Met4522,DNA,Present study,RAG_pt04,rag,rag_skin,child,skin,Hp,Dry,B,NA
+155,Met4523,DNA,Present study,RAG_pt04,rag,rag_skin,child,skin,Ic,Moist,B,NA
+156,Met4524,DNA,Present study,RAG_pt04,rag,rag_skin,child,skin,Mb,Sebaceous,B,NA
+157,Met4525,DNA,Present study,RAG_pt04,rag,rag_skin,child,skin,Ph,Moist,B,NA
+158,Met4526,DNA,Present study,RAG_pt04,rag,rag_skin,child,skin,Pc,Moist,B,NA
+159,Met4527,DNA,Present study,Air_control,control,control,NA,control,Ct,Ct,B,NA
+160,RagDef001,RNA,Present study,RAG_pt01,rag,rag_stool,child,stool,St,Stool,2M,2
+161,RagDef002,RNA,Present study,RAG_pt05,rag,rag_stool,adult,stool,St,Stool,3M,3
+162,RagDef003,RNA,Present study,RAG_pt05,rag,rag_stool,adult,stool,St,Stool,6M,6
+163,RagDef004,RNA,Present study,RAG_pt05,rag,rag_stool,adult,stool,St,Stool,3M,3
+164,RagDef005,RNA,Present study,RAG_pt06,rag,rag_stool,adult,stool,St,Stool,6M,6
+165,RagDef006,RNA,Present study,RAG_pt06,rag,rag_stool,adult,stool,St,Stool,B,NA
+166,RagDef007,RNA,Present study,RAG_pt03,rag,rag_stool,child,stool,St,Stool,B,NA
+167,RagDef008,RNA,Present study,RAG_pt07,rag,rag_stool,adult,stool,St,Stool,B,NA
+168,RagDef009,RNA,Present study,RAG_pt08,rag,rag_stool,adult,stool,St,Stool,B,NA
+169,RagDef010,RNA,Present study,RAG_pt04,rag,rag_stool,child,stool,St,Stool,B,NA
+170,RagDef023,RNA,Present study,Prep_control,control,control,NA,control,Ct,Stool,B,NA
+171,RagDef025,RNA,Present study,RAG_pt08,rag,rag_stool,adult,stool,St,Stool,B,NA
+172,RagDef026,RNA,Present study,Prep_control,control,control,NA,control,Ct,Stool,B,NA
+173,RagDef027,RNA,Present study,RAG_pt01,rag,rag_skin,child,nares,N,Nasal,B,NA
+174,RagDef029,RNA,Present study,RAG_pt06,rag,rag_skin,adult,nares,N,Nasal,B,NA
+175,RagDef030,RNA,Present study,RAG_pt02,rag,rag_skin,child,nares,N,Nasal,B,NA
+176,RagDef031,RNA,Present study,RAG_pt03,rag,rag_skin,child,nares,N,Nasal,B,NA
+177,RagDef032,RNA,Present study,RAG_pt07,rag,rag_skin,adult,nares,N,Nasal,B,NA
+178,RagDef033,RNA,Present study,RAG_pt08,rag,rag_skin,adult,nares,N,Nasal,B,NA
+179,RagDef034,RNA,Present study,RAG_pt04,rag,rag_skin,child,nares,N,Nasal,B,NA
+180,RagDef035,RNA,Present study,RAG_pt05,rag,rag_skin,adult,nares,N,Nasal,B,NA

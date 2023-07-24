@@ -1,0 +1,14 @@
+﻿no,family,gene,class,mechanism,model,mean_RAG,mean_HV,point_mutation
+1,gb|AER05434_1|ARO_3003974|Propionibacterium_acnes_gyrA_conferring_resistance_to_fluoroquinolones__Cutibacterium_acnes_subsp__defendens_ATCC_11828_,gyrA_i,fluoroquinolone,target_alteration,0.003837651,1.4632185,0.4595034,yes
+2,gb|BAJ09383_1|ARO_3003046|qacA__Staphylococcus_aureus_,qacA,multi_drug,efflux,0.033519564,0.7329429,0.23604649,no
+3,gb|AAG03357_1|ARO_3000596|ErmX__Corynebacterium_striatum_,ErmX,macrolide,target_alteration,0.008200787,0.7834575,0.24601085,no
+4,gb|CAA53189|ARO_3000521|mupA__Staphylococcus_aureus_,mupA,other,target_alteration,0.044268514,0.2311961,0,no
+5,gb|YP_008997285_1|ARO_3000615|mefA__Exiguobacterium_sp__S3-2_,mefA,macrolide,target_protection,0.005257661,0.6905268,0.18778204,no
+6,gb|BAB41258_1|ARO_3000124|mecI__Staphylococcus_aureus_subsp__aureus_N315_,mecI,penam_beta-lactam,target_replacement,0.033593017,0.285958,0,no
+7,gb|AAA88675_1|ARO_3000498|ErmF__Bacteroides_fragilis_,ErmF,macrolide,target_alteration,0.011046617,0.6062059,0.02143234,no
+8,gb|YP_001245420_1|ARO_3000215|mecR1__Staphylococcus_aureus_subsp__aureus_JH9_,mecR1,penam_beta-lactam,target_replacement,0.001295468,0.2162363,0.01197383,no
+9,gb|WP_063853881_1|ARO_3000319|mphC__Staphylococcus_aureus_,mphC,macrolide,inactivation,0.013870444,0.3792384,0.09427687,no
+10,gb|ACT97371_1|ARO_3003097|CfxA6__uncultured_organism_,CfxA6,penam_beta-lactam,inactivation,0.040168997,0.6201188,0.14219485,no
+11,gb|AAF86219_1|ARO_3000375|ErmB__Enterococcus_faecium_,ErmB,macrolide,target_alteration,0.005440185,0.5310866,0.01639104,no
+12,gb|WP_014065640_1|ARO_3003924|Haemophilus_parainfluenzae_gyrA_conferring_resistance_to_fluoroquinolones__Haemophilus_parainfluenzae_,gyrA_ii,fluoroquinolone,target_alteration,0.034874485,0.3971032,0.01828373,yes
+13,gb|SIP52035_1|ARO_3004054|Pseudomonas_aeruginosa_CpxR__Pseudomonas_aeruginosa_,CpxR,multi_drug,efflux,0.034195898,0,0.11767239,no

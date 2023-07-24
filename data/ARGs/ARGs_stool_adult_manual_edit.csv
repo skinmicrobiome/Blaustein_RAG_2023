@@ -1,0 +1,10 @@
+﻿no,family,gene,class,mechanism,t_test,mw_test,mean_RAG,mean_HV,point_mutation
+1,gb|AAA27471_1|ARO_3000205|tetX__Bacteroides_fragilis_,tetX,tetracycline,inactivation,0.0326943,0.04032417,2.2234221,1.0766446,no
+2,gb|AAA88675_1|ARO_3000498|ErmF__Bacteroides_fragilis_,ErmF,streptogramin_mactrolide_lincosamide,target_alteration,0.02798017,0.04219696,2.1543265,1.0310402,no
+3,gb|AAC37034_1|ARO_3000522|ErmG__Bacteroides_thetaiotaomicron_,ErmG,streptogramin_mactrolide_lincosamide,target_alteration,0.0331484,0.03072784,0.5869253,0.2271026,no
+4,gb|AAC77293_1|ARO_3001214|mdtM__Escherichia_coli_str__K-12_substr__MG1655_,mdtM,multi_drug,efflux,0.14343065,0.02577082,0.5704401,0,no
+5,gb|AAF86219_1|ARO_3000375|ErmB__Enterococcus_faecium_,ErmB,streptogramin_mactrolide_lincosamide,target_alteration,0.05175707,0.03809524,1.8485572,0.9164203,no
+6,gb|AAK63040_1|ARO_3002635|APH(2__)-IIa__Escherichia_coli_,APH(2)-Ila,aminoglycoside,inactivation,0.22354308,0.02577082,0.1840091,0,no
+7,gb|AEJ33969_1|ARO_3000410|sul1__Vibrio_fluvialis_,sul1,sulfonamide,target_replacement,0.19583188,0.02577082,1.0663784,0,no
+8,gb|NP_415372_1|ARO_3003751|Escherichia_coli_nfsA_mutations_conferring_resistance_to_nitrofurantoin__Escherichia_coli_str__K-12_substr__MG1655_,nfsA,other,target_alteration,0.12333857,0.02577082,0.9492905,0,no
+9,gb|YP_008997285_1|ARO_3000615|mefA__Exiguobacterium_sp__S3-2_,mefA,streptogramin_mactrolide_lincosamide,efflux,0.03257523,0.01306185,1.100193,0.170068,no

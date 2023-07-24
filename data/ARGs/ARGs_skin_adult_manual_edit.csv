@@ -1,0 +1,17 @@
+﻿no,family,gene,class,mechanism,model,mean_RAG,mean_HV,point_mutation
+1,gb|AER05434_1|ARO_3003974|Propionibacterium_acnes_gyrA_conferring_resistance_to_fluoroquinolones__Cutibacterium_acnes_subsp__defendens_ATCC_11828_,gyrA_i,fluoroquinolone,target_alteration,7.51E-08,NA,NA,yes
+2,gb|AAA98296_1|ARO_3000250|ErmC__Staphylococcus_epidermidis_,ErmC,macrolide,target_alteration,6.30E-04,NA,NA,no
+3,gb|AAN82549_1|ARO_3003369|Escherichia_coli_EF-Tu_mutants_conferring_resistance_to_Pulvomycin__Escherichia_coli_CFT073_,EF-Tu,other,target_alteration,3.64E-02,NA,NA,yes
+4,gb|AAS68233_1|ARO_3000391|norA__Staphylococcus_epidermidis_,norA,multi_drug,efflux,4.31E-02,NA,NA,no
+5,gb|CAA53189|ARO_3000521|mupA__Staphylococcus_aureus_,mupA,other,target_alteration,1.21E-03,NA,NA,no
+6,gb|BAB41258_1|ARO_3000124|mecI__Staphylococcus_aureus_subsp__aureus_N315_,mecI,penam_beta-lactam,target_replacement,1.11E-04,NA,NA,no
+7,gb|YP_001245420_1|ARO_3000215|mecR1__Staphylococcus_aureus_subsp__aureus_JH9_,mecR1,penam_beta-lactam,target_replacement,4.10E-05,NA,NA,no
+8,gb|AAC23556_1|ARO_3002660|APH(6)-Id__Pseudomonas_aeruginosa_,APH(6)-Id,aminoglycoside,inactivation,4.12E-02,NA,NA,no
+9,gb|AAG03380_1|ARO_3002703|cmx__Corynebacterium_striatum_,cmx,phenicol,efflux,1.81E-02,NA,NA,no
+10,gb|CCP46065_1|ARO_3000816|mtrA__Mycobacterium_tuberculosis_H37Rv_,mtrA,multi_drug,efflux,5.29E-03,NA,NA,no
+11,gb|AIL15701|ARO_3003775|Escherichia_coli_murA_with_mutation_conferring_resistance_to_fosfomycin__Escherichia_coli_ATCC_25922_,murA_i,fosfomycin,target_alteration,3.07E-02,NA,NA,no
+12,gb|CAG41169_1|ARO_3003776|Staphylococcus_aureus_murA_with_mutation_conferring_resistance_to_fosfomycin__Staphylococcus_aureus_subsp__aureus_MRSA252_,murA_ii,fosfomycin,target_alteration,4.85E-02,NA,NA,no
+13,gb|AAB53445_1|ARO_3002897|SAT-4__Campylobacter_coli_,SAT-4,other,inactivation,2.52E-02,NA,NA,no
+14,gb|AAL12234_1|ARO_3003552|fusB__Staphylococcus_aureus_,fusB,other,target_protection,4.36E-02,NA,NA,no
+15,gb|CAA55486_1|ARO_3003459|Mycobacterium_tuberculosis_gyrB_mutant_conferring_resistance_to_fluoroquinolone__Mycobacterium_tuberculosis_H37Ra_,gyrB,fluoroquinolone,target_alteration,4.94E-02,NA,NA,yes
+16,gb|AAC64365_1|ARO_3000230|ANT(2__)-Ia__Pseudomonas_aeruginosa_,ANT(2)-Ia,aminoglycoside,inactivation,3.34E-02,NA,NA,no
